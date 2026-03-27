@@ -10,8 +10,8 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Seoul:20260403T120000
 DTEND;TZID=Asia/Seoul:20260404T000000
 SUMMARY:🎵EP [FREEMAN] OUT NOW
-DESCRIPTION:@currthefreeman\nEP [FREEMAN] OUT NOW\n\n스트리밍 링크: 바이오 참고
-ORGANIZER;CN=@currthefreeman:mailto:noreply@currthefreeman.com
+DESCRIPTION:@currythefreeman\nEP [FREEMAN]을 각종 스트리밍 사이트에서 만나보세요\n\n
+ORGANIZER;CN=@currythefreeman:mailto:instagram @currythefreema
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
